@@ -44,6 +44,11 @@ ops.model module
 
 .. automodule:: ops.model
 
+ops.relation
+------------
+
+.. automodule:: ops.relation
+
 ops.testing module
 ------------------
 
